@@ -1,0 +1,5 @@
+Description,AmountCredits,Price,Cost,Profit,CostProfit
+Free,15,"R$ 0,00","R$ 0,90","-R$ 0,90","100,00%"
+Small,35,"R$ 9,90","R$ 2,10","R$ 7,80","21,21%"
+Middle,70,"R$ 18,90","R$ 4,20","R$ 14,70","22,22%"
+Large,150,"R$ 35,90","R$ 9,00","R$ 26,90","25,07%"
